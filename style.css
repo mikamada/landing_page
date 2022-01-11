@@ -139,6 +139,21 @@
   text-align: center;
 }
 
+/* footer */
+
+.footer {
+  margin-top: 100px;
+}
+.footer p {
+  font-size: 18px;
+  color: #acacac;
+}
+
+.footer p span {
+  font-family: Viga;
+  color: #1c2c5d;
+}
+
 /* DEKSTOP VERSION */
 @media (min-width: 992px) {
   .navbar-brand,
